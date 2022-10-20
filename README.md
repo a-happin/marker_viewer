@@ -1,4 +1,4 @@
-datapack-template
+marker_viewer
 ==
 
 ## Features
